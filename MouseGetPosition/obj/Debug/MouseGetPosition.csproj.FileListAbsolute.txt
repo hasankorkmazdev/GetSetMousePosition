@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\MouseGetPosition\MouseGetPosition\bin\Debug\MouseGetPosition.exe.config
+C:\Users\PC\source\repos\MouseGetPosition\MouseGetPosition\bin\Debug\MouseGetPosition.exe
+C:\Users\PC\source\repos\MouseGetPosition\MouseGetPosition\bin\Debug\MouseGetPosition.pdb
+C:\Users\PC\source\repos\MouseGetPosition\MouseGetPosition\obj\Debug\MouseGetPosition.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\MouseGetPosition\MouseGetPosition\obj\Debug\MouseGetPosition.Form1.resources
+C:\Users\PC\source\repos\MouseGetPosition\MouseGetPosition\obj\Debug\MouseGetPosition.Properties.Resources.resources
+C:\Users\PC\source\repos\MouseGetPosition\MouseGetPosition\obj\Debug\MouseGetPosition.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\MouseGetPosition\MouseGetPosition\obj\Debug\MouseGetPosition.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MouseGetPosition\MouseGetPosition\obj\Debug\MouseGetPosition.exe
+C:\Users\PC\source\repos\MouseGetPosition\MouseGetPosition\obj\Debug\MouseGetPosition.pdb
